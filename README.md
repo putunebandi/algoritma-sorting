@@ -1,6 +1,6 @@
 # Analisis Perbandingan Algoritma Sorting (Insertion, Merge, & Tim Sort)
 
-Repository ini berisi implementasi dan analisis perbandingan kinerja (benchmarking) antara tiga algoritma sorting menggunakan bahasa pemrograman Java. Projek ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)** mata kuliah Algoritma & Struktur Data.
+Repository ini berisi implementasi dan analisis perbandingan kinerja (benchmarking) antara tiga algoritma sorting menggunakan bahasa pemrograman Java. Projek ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)** mata kuliah Algoritma dan Kompleksitas.
 
 ## 📋 Deskripsi
 Aplikasi ini melakukan pengujian terhadap tiga algoritma pengurutan:
